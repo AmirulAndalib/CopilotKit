@@ -3,9 +3,9 @@ crewai-tools==1.15.11
 ag-ui-crewai==0.3.0
 ag-ui-protocol==0.1.19
 ag-ui-a2ui-toolkit==0.0.4
-litellm==1.79.3
+litellm==1.88.6
 fastapi==0.115.12
-python-dotenv==1.2.2
+python-dotenv==1.2.4
 uvicorn==0.34.3
 # typing.NotRequired is stdlib on 3.11+. typing_extensions backports it for
 # 3.10 (and older) so local dev on older macOS / Linux Pythons doesn't hit

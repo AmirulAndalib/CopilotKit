@@ -7,8 +7,8 @@ agent-framework-openai==1.14.0
 agent-framework-core==1.15.0
 ag-ui-a2ui-toolkit==0.0.4
 httpx>=0.28.0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 uvicorn==0.37.0
 fastapi>=0.115.0
-starlette<1.0.0
+starlette<2.0.0
 pypdf>=4.0.0,<7.0.0

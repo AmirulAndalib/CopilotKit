@@ -27,7 +27,7 @@
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "chalk": "^5.4.0",
-    "glob": "^10.4.0",
+    "glob": "^14.0.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "playwright": "^1.59.1",

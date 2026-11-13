@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@copilotkit/runtime": "workspace:^",
-    "@hono/node-server": "^1.13.6"
+    "@hono/node-server": "^2.1.6"
   },
   "devDependencies": {
     "@copilotkit/typescript-config": "workspace:^",
